@@ -84,3 +84,9 @@ nav ul li{
         right: -200px;
     }
 }
+
+.blog-nav {
+    background-color: #070b33; /* Nice deep blue */
+    transition: background-color 0.3s ease;
+  }
+  
