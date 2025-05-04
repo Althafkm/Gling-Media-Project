@@ -5,6 +5,8 @@ import dark_arrow from '../../assets/dark-arrow.png'
 const Hero = () => {
   return (
     <div className='hero container'>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6947421541247025"
+     crossorigin="anonymous"></script>
       <div className="hero-text">
         <h1>Leading the Way in Digital Excellence
 
@@ -28,6 +30,8 @@ const Hero = () => {
 </p>
         <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
       </div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6947421541247025"
+     crossorigin="anonymous"></script>
     </div>
   )
 }

@@ -68,6 +68,8 @@ const Contact = () => {
               <li><img src={phone_icon} alt="" />+91 90361 93181</li>
               <li><img src={location_icon} alt="" />Raheja Arcade, 2nd Floor, Koramangala<br/> Bengaluru, Karnataka 560095</li>
           </ul>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6947421541247025"
+     crossorigin="anonymous"></script>
         </div>
         
         <div className="contact-col">
